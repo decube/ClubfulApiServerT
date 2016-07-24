@@ -3,8 +3,8 @@
   "msg":"success",
   "startTime":"22:00:00",
   "endTime":"09:00:00",
-  "noticePush":0,
-  "myCreateCourtPush":0,
-  "distancePush":0,
-  "interestPush":0
+  "noticePush":true,
+  "myCreateCourtPush":false,
+  "distancePush":true,
+  "interestPush":true
 }
