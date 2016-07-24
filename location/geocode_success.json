@@ -1,0 +1,264 @@
+{
+  "code":1,
+  "msg":"success",
+  "results":{
+     "results" : [
+        {
+           "address_components" : [
+              {
+                 "long_name" : "북구",
+                 "short_name" : "북구",
+                 "types" : [ "political", "sublocality", "sublocality_level_1" ]
+              },
+              {
+                 "long_name" : "광주광역시",
+                 "short_name" : "광주광역시",
+                 "types" : [ "locality", "political" ]
+              },
+              {
+                 "long_name" : "대한민국",
+                 "short_name" : "KR",
+                 "types" : [ "country", "political" ]
+              }
+           ],
+           "formatted_address" : "대한민국 광주광역시 북구",
+           "geometry" : {
+              "bounds" : {
+                 "northeast" : {
+                    "lat" : 35.2587209,
+                    "lng" : 127.0229413
+                 },
+                 "southwest" : {
+                    "lat" : 35.1228187,
+                    "lng" : 126.8352548
+                 }
+              },
+              "location" : {
+                 "lat" : 35.1740167,
+                 "lng" : 126.9119842
+              },
+              "location_type" : "APPROXIMATE",
+              "viewport" : {
+                 "northeast" : {
+                    "lat" : 35.2587209,
+                    "lng" : 127.0229413
+                 },
+                 "southwest" : {
+                    "lat" : 35.1228187,
+                    "lng" : 126.8352548
+                 }
+              }
+           },
+           "place_id" : "ChIJp5sF9BSNcTURx2PgDAW_NGw",
+           "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+           "address_components" : [
+              {
+                 "long_name" : "북구",
+                 "short_name" : "북구",
+                 "types" : [ "political", "sublocality", "sublocality_level_1" ]
+              },
+              {
+                 "long_name" : "대구광역시",
+                 "short_name" : "대구광역시",
+                 "types" : [ "locality", "political" ]
+              },
+              {
+                 "long_name" : "대한민국",
+                 "short_name" : "KR",
+                 "types" : [ "country", "political" ]
+              }
+           ],
+           "formatted_address" : "대한민국 대구광역시 북구",
+           "geometry" : {
+              "bounds" : {
+                 "northeast" : {
+                    "lat" : 35.9877689,
+                    "lng" : 128.6321409
+                 },
+                 "southwest" : {
+                    "lat" : 35.8734733,
+                    "lng" : 128.5045224
+                 }
+              },
+              "location" : {
+                 "lat" : 35.8857114,
+                 "lng" : 128.5828073
+              },
+              "location_type" : "APPROXIMATE",
+              "viewport" : {
+                 "northeast" : {
+                    "lat" : 35.9877689,
+                    "lng" : 128.6321409
+                 },
+                 "southwest" : {
+                    "lat" : 35.8734733,
+                    "lng" : 128.5045224
+                 }
+              }
+           },
+           "place_id" : "ChIJK6YUxirnZTURUKNpqGDtwRw",
+           "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+           "address_components" : [
+              {
+                 "long_name" : "북구",
+                 "short_name" : "북구",
+                 "types" : [ "political", "sublocality", "sublocality_level_1" ]
+              },
+              {
+                 "long_name" : "포항시",
+                 "short_name" : "포항시",
+                 "types" : [ "locality", "political" ]
+              },
+              {
+                 "long_name" : "경상북도",
+                 "short_name" : "경상북도",
+                 "types" : [ "administrative_area_level_1", "political" ]
+              },
+              {
+                 "long_name" : "대한민국",
+                 "short_name" : "KR",
+                 "types" : [ "country", "political" ]
+              }
+           ],
+           "formatted_address" : "대한민국 경상북도 포항시 북구",
+           "geometry" : {
+              "bounds" : {
+                 "northeast" : {
+                    "lat" : 36.3320526,
+                    "lng" : 129.5003811
+                 },
+                 "southwest" : {
+                    "lat" : 36.0140532,
+                    "lng" : 128.9886614
+                 }
+              },
+              "location" : {
+                 "lat" : 36.0418465,
+                 "lng" : 129.3656451
+              },
+              "location_type" : "APPROXIMATE",
+              "viewport" : {
+                 "northeast" : {
+                    "lat" : 36.3320526,
+                    "lng" : 129.5003811
+                 },
+                 "southwest" : {
+                    "lat" : 36.0140532,
+                    "lng" : 128.9886614
+                 }
+              }
+           },
+           "place_id" : "ChIJi-JoKKPkZjURK-MFan2qpBU",
+           "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+           "address_components" : [
+              {
+                 "long_name" : "북구",
+                 "short_name" : "북구",
+                 "types" : [ "political", "sublocality", "sublocality_level_1" ]
+              },
+              {
+                 "long_name" : "울산광역시",
+                 "short_name" : "울산광역시",
+                 "types" : [ "locality", "political" ]
+              },
+              {
+                 "long_name" : "대한민국",
+                 "short_name" : "KR",
+                 "types" : [ "country", "political" ]
+              },
+              {
+                 "long_name" : "683-350",
+                 "short_name" : "683-350",
+                 "types" : [ "postal_code" ]
+              }
+           ],
+           "formatted_address" : "대한민국 울산광역시 북구",
+           "geometry" : {
+              "bounds" : {
+                 "northeast" : {
+                    "lat" : 35.6806774,
+                    "lng" : 129.4977022
+                 },
+                 "southwest" : {
+                    "lat" : 35.5159269,
+                    "lng" : 129.2886486
+                 }
+              },
+              "location" : {
+                 "lat" : 35.58273399999999,
+                 "lng" : 129.3609087
+              },
+              "location_type" : "APPROXIMATE",
+              "viewport" : {
+                 "northeast" : {
+                    "lat" : 35.6806774,
+                    "lng" : 129.4977022
+                 },
+                 "southwest" : {
+                    "lat" : 35.5159269,
+                    "lng" : 129.2886486
+                 }
+              }
+           },
+           "place_id" : "ChIJnyqmfZbLZzURmf9dnHR98s4",
+           "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+           "address_components" : [
+              {
+                 "long_name" : "북구",
+                 "short_name" : "북구",
+                 "types" : [ "political", "sublocality", "sublocality_level_1" ]
+              },
+              {
+                 "long_name" : "부산광역시",
+                 "short_name" : "부산광역시",
+                 "types" : [ "locality", "political" ]
+              },
+              {
+                 "long_name" : "대한민국",
+                 "short_name" : "KR",
+                 "types" : [ "country", "political" ]
+              }
+           ],
+           "formatted_address" : "대한민국 부산광역시 북구",
+           "geometry" : {
+              "bounds" : {
+                 "northeast" : {
+                    "lat" : 35.2782706,
+                    "lng" : 129.0633961
+                 },
+                 "southwest" : {
+                    "lat" : 35.1881987,
+                    "lng" : 128.9871527
+                 }
+              },
+              "location" : {
+                 "lat" : 35.1971347,
+                 "lng" : 128.9903711
+              },
+              "location_type" : "APPROXIMATE",
+              "viewport" : {
+                 "northeast" : {
+                    "lat" : 35.2782706,
+                    "lng" : 129.0633961
+                 },
+                 "southwest" : {
+                    "lat" : 35.1881987,
+                    "lng" : 128.9871527
+                 }
+              }
+           },
+           "place_id" : "ChIJv-4UvACVaDURwm3HxUOZJ28",
+           "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        }
+     ],
+     "status" : "OK"
+  }
+}

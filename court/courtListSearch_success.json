@@ -1,0 +1,16 @@
+{
+  "code":1,
+  "msg":"success",
+  "list":[
+    {"seq":1,"address":"서울 특별시 홍대","address":"홍대"},
+    {"seq":2,"address":"서울 특별시 영등포구","address":"신림동"},
+    {"seq":3,"address":"서울 특별시 관악구","address":"북구"},
+    {"seq":4,"address":"서울 특별시 영등포구","address":"남구"},
+    {"seq":5,"address":"서울 특별시 관악구","address":"봉천동"},
+    {"seq":6,"address":"서울 특별시 영등포구","address":"강남"},
+    {"seq":7,"address":"서울 특별시 관악구","address":"강북"},
+    {"seq":8,"address":"서울 특별시 영등포구","address":"강북"},
+    {"seq":9,"address":"서울 특별시 관악구","address":"강서"},
+    {"seq":10,"address":"서울 특별시 영등포구","address":"강동"}
+  ]
+}
