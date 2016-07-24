@@ -1,0 +1,77 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+<script   src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
+</head>
+<body>
+<table style="width:100%">
+  <tr>
+    <td width="60%">와 여기 좋은데요</td>
+    <td width="20%">가가가</td>
+    <td width="20%">2016-07-23</td>
+  </tr>
+  <tr>
+    <td>좋다</td>
+    <td>가가가</td>
+    <td>17:55:23</td>
+  </tr>
+  <tr>
+    <td>가깝고 좋은듯</td>
+    <td>타타타</td>
+    <td>17:50:23</td>
+  </tr>
+  <tr>
+    <td>더워</td>
+    <td>가가가</td>
+    <td>13:55:03</td>
+  </tr>
+  <tr>
+    <td>여기서 하실분</td>
+    <td>하하하</td>
+    <td>2016-07-23</td>
+  </tr>
+  <tr>
+    <td>지금 ㄱㄱ</td>
+    <td>가가가</td>
+    <td>2016-07-23</td>
+  </tr>
+  <tr>
+    <td>재미있네요</td>
+    <td>고고고</td>
+    <td>2016-07-22</td>
+  </tr>
+  <tr>
+    <td>덥다 ㅜㅜ</td>
+    <td>라라라</td>
+    <td>2016-07-22</td>
+  </tr>
+  <tr>
+    <td>빨리 ㄱㄱ</td>
+    <td>나나나</td>
+    <td>2016-07-21</td>
+  </tr>
+</table>
+<script>
+var appendNum = 1;
+function replyInsertAction(){
+  var date = new Date();
+  var hour = date.getHours();
+  var min = date.getMinutes();
+  var sec = date.getSeconds();
+  if (String(hour).length = 1){
+    hour = "0"+hour;
+  }
+  if (String(min).length = 1){
+    min = "0"+min;
+  }
+  if (String(sec).length = 1){
+    sec = "0"+sec;
+  }
+  $("table").prepend(
+    "<tr><td>여기 추가해용~"+appendNum+"</td><td>가마"+appendNum+"</td><td>"+hour+":"+min+":"+sec+"</td></tr>"
+  );
+  appendNum+=1;
+}
+</script>
+</body>
+</html>
