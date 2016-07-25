@@ -115,34 +115,38 @@ var random1 = ["여기 좋네요~~", "굿 추천!", "나랑같이 여기서 한�
 var callTime = [400,800,1400,1800];
 
 function replyInsertAction(){
-  var date = new Date();
-  var hour = date.getHours();
-  var min = date.getMinutes();
-  var sec = date.getSeconds();
-  if (String(hour).length == 1){
-    hour = "0"+hour;
-  }
-  if (String(min).length == 1){
-    min = "0"+min;
-  }
-  if (String(sec).length == 1){
-    sec = "0"+sec;
-  }
-  isCall = true;
-  $('#temp1').show();
-  setTimeout(function(){
-    var preSize = [1,1,2,3];
-    var iR = Math.floor(Math.random() * preSize.length);
-    for(var i = 0; i < preSize[iR]; i++){
-      var random = Math.floor(Math.random() * random1.length);
-      $("#table").prepend(
-        "<tr><td>"+random1[random]+"_"+appendNum+"</td><td>닉네임"+appendNum+"</td><td>"+hour+":"+min+":"+sec+"</td></tr>"
-      );
+  if(isCall == false){
+    isCall = true;
+    var date = new Date();
+    var hour = date.getHours();
+    var min = date.getMinutes();
+    var sec = date.getSeconds();
+    if (String(hour).length == 1){
+      hour = "0"+hour;
     }
-    isCall = false;
-    appendNum+=1;
-    $('#temp1').hide();
-  }, callTime[Math.floor(Math.random() * callTime.length)]);
+    if (String(min).length == 1){
+      min = "0"+min;
+    }
+    if (String(sec).length == 1){
+      sec = "0"+sec;
+    }
+    isCall = true;
+    $('#temp1').show();
+    setTimeout(function(){
+      var preSize = [1,1,2,3];
+      var iR = Math.floor(Math.random() * preSize.length);
+      for(var i = 0; i < preSize[iR]; i++){
+        var random = Math.floor(Math.random() * random1.length);
+        $("#table").prepend(
+          "<tr><td>"+random1[random]+"_"+appendNum+"</td><td>닉네임"+appendNum+"</td><td>"+hour+":"+min+":"+sec+"</td></tr>"
+        );
+      }
+      isCall = false;
+      appendNum+=1;
+      $('#temp1').hide();
+      isCall = false;
+    }, callTime[Math.floor(Math.random() * callTime.length)]);
+  }
 }
 
 
