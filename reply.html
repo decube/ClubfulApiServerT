@@ -160,9 +160,13 @@ $(document).ready(function(){
     if(isCall == false && replyI < replyAppSize){
       isCall = true;
       var scrollDiff = $(window).height() - $(window).scrollTop();
-      $('#temp2').show();
+      var isScroll = false;
+      if (scrollDiff <  400) {
+        $('#temp2').show();
+        isScroll = true;
+      }
       setTimeout(function(){
-        if (scrollDiff <  400) {
+        if (isScroll) {
           replyI+=1;
           for(var i=0; i<10; i++){
             var random = Math.floor(Math.random() * random1.length);
@@ -171,10 +175,10 @@ $(document).ready(function(){
             );
           }
           isCall = false;
+          $('#temp2').hide();
         }else{
           isCall = false;
         }
-        $('#temp2').hide();
       }, callTime[Math.floor(Math.random() * callTime.length)]);
     }
   });
