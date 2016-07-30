@@ -6,47 +6,65 @@
       "seq":1,
       "image":"https://usercontents-c.styleshare.kr/images/9829857/640x-",
       "address":"서울 특별시 관악구 봉천동",
-      "addressShort":"봉천동"
+      "addressShort":"봉천동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":2,
       "image":"http://postfiles1.naver.net/20131213_16/qkqxodgy_1386869213186mO0wz_PNG/1386869211739_IMG_2579680637651.png?type=w1",
       "address":"서울 특별시 영등포구 사동",
-      "addressShort":"사동"
+      "addressShort":"사동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":3,
       "image":"http://postfiles1.naver.net/20131213_16/qkqxodgy_1386869213186mO0wz_PNG/1386869211739_IMG_2579680637651.png?type=w1",
       "address":"서울 특별시 어어어어 가나동",
-      "addressShort":"가나동"
+      "addressShort":"가나동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":4,
       "image":"http://postfiles4.naver.net/20131213_35/qkqxodgy_13868692133894jpOy_JPEG/IMG_2623472947505.jpeg?type=w1",
       "address":"서울 특별시 강남구 대치동",
-      "addressShort":"대치동"
+      "addressShort":"대치동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":5,
       "image":"http://postfiles16.naver.net/20131213_207/qkqxodgy_1386869214589bXEVd_JPEG/IMG_3071920597531.jpeg?type=w1",
       "address":"대전 유성구 어디동",
-      "addressShort":"어디동"
+      "addressShort":"어디동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":6,
       "image":"http://image.sportsseoul.com/wyzmob/images/20140820/20140820_1408512896_86248300_1.jpg",
       "address":"평앙 특별시 평양구 평양동",
-      "addressShort":"평양동"
+      "addressShort":"평양동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":7,
       "image":"https://usercontents-c.styleshare.kr/images/9829857/640x-",
       "address":"미국 알래스카 가가동",
-      "addressShort":"가가동"
+      "addressShort":"가가동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":8,
       "image":"http://postfiles1.naver.net/20131213_16/qkqxodgy_1386869213186mO0wz_PNG/1386869211739_IMG_2579680637651.png?type=w1",
       "address":"라라라 라라라라구 라동",
-      "addressShort":"라동"
+      "addressShort":"라동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":9,
       "image":"http://postfiles1.naver.net/20131213_16/qkqxodgy_1386869213186mO0wz_PNG/1386869211739_IMG_2579680637651.png?type=w1",
       "address":"중국 베이징 홍콩",
-      "addressShort":"홍콩"
+      "addressShort":"홍콩",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     }
   ],
   "myCourtInsert":[
@@ -54,22 +72,30 @@
       "seq":1,
       "image":"http://postfiles4.naver.net/20131213_35/qkqxodgy_13868692133894jpOy_JPEG/IMG_2623472947505.jpeg?type=w1",
       "address":"서울 특별시 강북구 강북",
-      "addressShort":"강북"
+      "addressShort":"강북",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":2,
       "image":"http://postfiles16.naver.net/20131213_207/qkqxodgy_1386869214589bXEVd_JPEG/IMG_3071920597531.jpeg?type=w1",
       "address":"서울 특별시 강서구 강서",
-      "addressShort":"강서"
+      "addressShort":"강서",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":3,
       "image":"https://usercontents-c.styleshare.kr/images/9829857/640x-",
       "address":"서울 특별시 강남구 강남",
-      "addressShort":"강남"
+      "addressShort":"강남",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     },{
       "seq":4,
       "image":"http://postfiles1.naver.net/20131213_16/qkqxodgy_1386869213186mO0wz_PNG/1386869211739_IMG_2579680637651.png?type=w1",
       "address":"서울 특별시 강동구 강동",
-      "addressShort":"강동"
+      "addressShort":"강동",
+      "cname":"봉천코트장",
+      "categoryName":"농구"
     }
   ]
 }
