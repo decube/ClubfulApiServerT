@@ -3,7 +3,8 @@
   "msg":"success",
   "result":{
     "replyUrl":"https://oyanggo-guanho.c9users.io/reply.html",
-    "replyFn":"replyInsertAction()",
+    "replyFn_ios":"replyInsertAction()",
+    "cname":"양천농구코트",
     "latitude":37.5571274,
     "longitude":126.9239304,
     "interest":5,
