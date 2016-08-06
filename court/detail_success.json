@@ -2,7 +2,7 @@
   "code":0,
   "msg":"success",
   "result":{
-    "replyUrl":"https://oyanggo-guanho.c9users.io/reply.html",
+    "replyUrl":"https://clubfulapiserver-guanho.c9users.io/reply.html",
     "replyFn_ios":"replyInsertAction()",
     "cname":"양천농구코트",
     "categoryName":"농구",
