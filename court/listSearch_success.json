@@ -2,15 +2,15 @@
   "code":0,
   "msg":"success",
   "list":[
-    {"seq":1,"address":"서울 특별시 홍대","addressShort":"홍대","categoryName":"축구","description":"여기 좋아요~~ ㅋㅋㅋ 놀러와요 좋아고 개굿 개꾸르잼","cname":"신림초축구코트"},
-    {"seq":2,"address":"서울 특별시 영등포구","addressShort":"신림동","categoryName":"농구","description":"ㅋㅋㅋㅋ여기 좋아요~~ㅋㅋㅋㅋㅋ 여기서 농구 한겜 할사람","cname":"봉천고농구장"},
-    {"seq":3,"address":"서울 특별시 관악구","addressShort":"북구","categoryName":"야구","description":"ㄲㄱ여기 좋아요~~가나다다다다다가나다다다다다가나다다다다다가나다다다다다가나다다다다다가나다다다다다","cname":"신림야구장"},
-    {"seq":4,"address":"서울 특별시 영등포구","addressShort":"남구","categoryName":"족구","description":"ㅂㅈㄷ여기 좋아요~~ㄹㅇ ㅂㅂㅂㄱ ㅇㅈ","cname":"신도림족구장"},
-    {"seq":5,"address":"서울 특별시 관악구","addressShort":"봉천동","categoryName":"발장난","description":"ㅁㄴㅇㄹ여기 좋아요~~","cname":"신림초농구코트"},
-    {"seq":6,"address":"서울 특별시 영등포구","addressShort":"강남","categoryName":"당구","description":"ㄴㅇㄹ여기 좋아요~~","cname":"강남당구"},
-    {"seq":7,"address":"서울 특별시 관악구","addressShort":"강북","categoryName":"축구","description":"ㅇㄹㅎ여기 좋아요~~","cname":"강북동축구장"},
-    {"seq":8,"address":"서울 특별시 영등포구","addressShort":"강북","categoryName":"메롱","description":"ㅎ롱여기 좋아요~~","cname":"신림초농구코트"},
-    {"seq":9,"address":"서울 특별시 관악구","addressShort":"강서","categoryName":"야구","description":"ㄷㄱㅅㄱ여기 좋아요~~","cname":"신림초농구코트"},
-    {"seq":10,"address":"서울 특별시 영등포구","addressShort":"강동","categoryName":"볼링","description":"ㅂㅈㄱㄷ여기 좋아요~~","cname":"신림초농구코트"}
+    {"seq":1,"address":"서울 특별시 홍대","addressShort":"홍대","latitude":126.9816485,"longitude":37.4765675,"categoryName":"축구","description":"여기 좋아요~~ ㅋㅋㅋ 놀러와요 좋아고 개굿 개꾸르잼","cname":"신림초축구코트"},
+    {"seq":2,"address":"서울 특별시 영등포구","addressShort":"신림동","latitude":126.9816485,"longitude":37.4765675,"categoryName":"농구","description":"ㅋㅋㅋㅋ여기 좋아요~~ㅋㅋㅋㅋㅋ 여기서 농구 한겜 할사람","cname":"봉천고농구장"},
+    {"seq":3,"address":"서울 특별시 관악구","addressShort":"북구","latitude":126.9816485,"longitude":37.4765675,"categoryName":"야구","description":"ㄲㄱ여기 좋아요~~가나다다다다다가나다다다다다가나다다다다다가나다다다다다가나다다다다다가나다다다다다","cname":"신림야구장"},
+    {"seq":4,"address":"서울 특별시 영등포구","addressShort":"남구","latitude":126.9816485,"longitude":37.4765675,"categoryName":"족구","description":"ㅂㅈㄷ여기 좋아요~~ㄹㅇ ㅂㅂㅂㄱ ㅇㅈ","cname":"신도림족구장"},
+    {"seq":5,"address":"서울 특별시 관악구","addressShort":"봉천동","latitude":126.9816485,"longitude":37.4765675,"categoryName":"발장난","description":"ㅁㄴㅇㄹ여기 좋아요~~","cname":"신림초농구코트"},
+    {"seq":6,"address":"서울 특별시 영등포구","addressShort":"강남","latitude":126.9816485,"longitude":37.4765675,"categoryName":"당구","description":"ㄴㅇㄹ여기 좋아요~~","cname":"강남당구"},
+    {"seq":7,"address":"서울 특별시 관악구","addressShort":"강북","latitude":126.9816485,"longitude":37.4765675,"categoryName":"축구","description":"ㅇㄹㅎ여기 좋아요~~","cname":"강북동축구장"},
+    {"seq":8,"address":"서울 특별시 영등포구","addressShort":"강북","latitude":126.9816485,"longitude":37.4765675,"categoryName":"메롱","description":"ㅎ롱여기 좋아요~~","cname":"신림초농구코트"},
+    {"seq":9,"address":"서울 특별시 관악구","addressShort":"강서","latitude":126.9816485,"longitude":37.4765675,"categoryName":"야구","description":"ㄷㄱㅅㄱ여기 좋아요~~","cname":"신림초농구코트"},
+    {"seq":10,"address":"서울 특별시 영등포구","addressShort":"강동","latitude":126.9816485,"longitude":37.4765675,"categoryName":"볼링","description":"ㅂㅈㄱㄷ여기 좋아요~~","cname":"신림초농구코트"}
   ]
 }
