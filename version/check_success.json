@@ -2,7 +2,7 @@
   "code":0,
   "msg":"success",
   "token":"EJDJSDIOFDJOIFDJSFDOIJSD123",
-  "iosVersion":"1.0.0",
+  "ver":"1.0.0",
   "categoryVer":1,
   "categoryList":[
     {"seq":1,"name":"축구"},
