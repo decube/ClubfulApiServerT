@@ -1,0 +1,12 @@
+myCallback({
+  "categoryList":[
+    {"seq":1,"name":"축구"},
+    {"seq":2,"name":"농구"},
+    {"seq":3,"name":"야구"},
+    {"seq":4,"name":"족구"},
+    {"seq":5,"name":"당구"},
+    {"seq":6,"name":"볼링"},
+    {"seq":7,"name":"테니스"},
+    {"seq":8,"name":"탁구"},
+  ]
+});
